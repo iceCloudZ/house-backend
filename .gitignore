@@ -15,4 +15,4 @@ tests/**/coverage/
 *.ntvs*
 *.njsproj
 *.sln
-*.aaa
+*.bbb
